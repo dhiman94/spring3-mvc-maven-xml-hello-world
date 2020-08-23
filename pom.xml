@@ -4,6 +4,7 @@
 	<groupId>com.mkyong</groupId>
 	<artifactId>hello</artifactId>
 	<packaging>war</packaging>
+	<version>1.0</version>
 	<name>spring3 mvc maven</name>
 
 	<properties>
