@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-  - source: artifacts/target/*.war
+  - source: target/hello-1.0.war
     destination: /usr/share/tomcat/webapps/
 hooks:
   BeforeInstall:
