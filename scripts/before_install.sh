@@ -1,2 +1,2 @@
 #!/bin/bash
-#rm -rf /usr/share/tomcat/webapps/hello*
+rm -rf /usr/share/tomcat/webapps/hello*
