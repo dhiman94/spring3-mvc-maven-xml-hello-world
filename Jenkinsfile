@@ -82,7 +82,6 @@ pipeline{
                         to: "dhiman.poison@gmail.com"
                     )    
                 }
-            }
         }
         
     }
