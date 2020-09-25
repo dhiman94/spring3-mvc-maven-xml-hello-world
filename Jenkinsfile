@@ -6,7 +6,7 @@ pipeline{
     environment {
         NEXUS_VERSION = "nexus3"
         NEXUS_PROTOCOL = "http"
-        NEXUS_URL = "ec2-15-206-127-71.ap-south-1.compute.amazonaws.com:8081"
+        NEXUS_URL = "ec2-15-206-127-71.ap-south-1.compute.amazonaws.com:8081" //change this accordingly
         NEXUS_REPOSITORY = "spring-app"
         NEXUS_CREDENTIAL_ID = "nexus_credentials"
     }
